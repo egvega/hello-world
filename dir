@@ -1,0 +1,7 @@
+total 20
+drwxrwxr-x 3 egvega egvega 4096 feb 13 14:49 ./
+drwxrwxr-x 3 egvega egvega 4096 feb 13 14:47 ../
+-rw-rw-r-- 1 egvega egvega    0 feb 13 14:49 dir
+drwxrwxr-x 8 egvega egvega 4096 feb 13 14:47 .git/
+-rw-rw-r-- 1 egvega egvega   12 feb 13 14:47 list.dat
+-rw-rw-r-- 1 egvega egvega   66 feb 13 14:47 README.md
